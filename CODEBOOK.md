@@ -1,4 +1,4 @@
-#Code Book for the tidy dataset and R analysis script
+#Codebook for the tidy dataset and R analysis script
 
 ##Description of the project and dataset
 
@@ -121,3 +121,4 @@ The labels of the actvity are:
 [79] "Frequency_Body_Gyroscope_Jerk_Magnitude_-mean()"        
 [80] "Frequency_Body_Gyroscope_Jerk_Magnitude_-std()"         
 [81] "Frequency_Body_Gyroscope_Jerk_Magnitude_-meanFreq()" 
+```
